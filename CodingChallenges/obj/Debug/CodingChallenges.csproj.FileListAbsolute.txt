@@ -1,0 +1,7 @@
+C:\Users\Mike\Desktop\Revature\CodingChallenges\CodingChallenges\bin\Debug\CodingChallenges.exe.config
+C:\Users\Mike\Desktop\Revature\CodingChallenges\CodingChallenges\bin\Debug\CodingChallenges.exe
+C:\Users\Mike\Desktop\Revature\CodingChallenges\CodingChallenges\bin\Debug\CodingChallenges.pdb
+C:\Users\Mike\Desktop\Revature\CodingChallenges\CodingChallenges\obj\Debug\CodingChallenges.csprojAssemblyReference.cache
+C:\Users\Mike\Desktop\Revature\CodingChallenges\CodingChallenges\obj\Debug\CodingChallenges.csproj.CoreCompileInputs.cache
+C:\Users\Mike\Desktop\Revature\CodingChallenges\CodingChallenges\obj\Debug\CodingChallenges.exe
+C:\Users\Mike\Desktop\Revature\CodingChallenges\CodingChallenges\obj\Debug\CodingChallenges.pdb
