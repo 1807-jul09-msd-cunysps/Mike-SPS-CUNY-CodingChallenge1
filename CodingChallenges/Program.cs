@@ -11,8 +11,9 @@ namespace CodingChallenges
         /// <summary>
         ///  Week 2 Coding Challenge
         /// </summary>
-        public static bool IsPalindrome(string s)
+        public static bool IsPalindrome(string input)
         {
+            string s = input.Replace(" ", "").ToLower();
             for (int i = 0; i < s.Length / 2; i++)
             {
                 if (!s[i].Equals(s[s.Length - i - 1]))

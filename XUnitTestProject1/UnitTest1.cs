@@ -16,6 +16,9 @@ namespace XUnitTestProject1
         [InlineData("aaa")]
         [InlineData("abcba")]
         [InlineData("aabbccbbaa")]
+        [InlineData("A nut for a jar of tuna")]
+        [InlineData("Borrow or rob")]
+        [InlineData("343")]
         public void TestTrue(string input)
         {
             Assert.True(Program.IsPalindrome(input));
